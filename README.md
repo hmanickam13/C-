@@ -3,8 +3,7 @@ Folders:
 1. Practice : 
    
    Contains problems which I solved to develop my recursive thinking and dynamic programming abilities.
-
-
+---
 
 2. Projects :
    
